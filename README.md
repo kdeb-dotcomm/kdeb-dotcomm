@@ -1,6 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kdeb-dotcomm&label=Profile%20views&color=e91e63&style=flat" alt="kdeb-dotcomm" /> </p>
 
-
-## Hi I'm Eugene O'shea
+## Hi there 😉
 
 - 📅 I'm an aspiring Actuary and a Data Analyst and a Software Developer.
 - 🔭 I'm currently taking Scrimba’s Fullstack Developer Career Path course.
