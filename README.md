@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**kdeb-dotcomm/kdeb-dotcomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi I'm Eugene O'shea
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📅 I'm an aspiring Actuary and a Data Analyst and a Software Developer.
+- 🔭 I'm currently taking Scrimba’s Fullstack Developer Career Path course.
+- 👯 I’m looking to collaborate on all Projects ie. (Big Data, Data Science, Software Development, Mathematics).
+- 📫 How to reach me: eugenedebrah07@gmail.com Phone Number: +233 538252476
+- 😄 Pronouns: Bro.
+- ⚡ Fun fact: 💾 The first bug in computing was a literal bug. 
+
+![kdeb-dotcomm GitHub stats](https://github-readme-stats.vercel.app/api?username=kdeb-dotcomm&show_icons=true&theme=merko)
+
